@@ -1,5 +1,5 @@
 /**
- * UM Mapbox Demo
+ * Mapbox Starter
  *
  * Created by Seven Mile Media
  * http://sevenmilemedia.com/
@@ -8,8 +8,6 @@
 (function($) {
 
     $(document).ready(function() {
-
-        // Silence is golden.
 
     });
 

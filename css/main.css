@@ -1,5 +1,5 @@
 /**
- * UM Mapbox Demo
+ * Mapbox Starter
  *
  * Created by Seven Mile Media
  * http://sevenmilemedia.com/
@@ -61,7 +61,27 @@ a:active {
     Map
    ========================================================================== */
 
-/* Map code goes here */
+#map {
+    width: 100%;
+    height: 100vh;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
